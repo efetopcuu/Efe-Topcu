@@ -1,4 +1,4 @@
-# Hi There!
+# Merhaba!
 
 Şuanda Kodluyoruz front-end web development ön hazırlık bootcamp sürecindeyim
 Basit HTML,CSS biliyorum. JS öğreniyorum.
